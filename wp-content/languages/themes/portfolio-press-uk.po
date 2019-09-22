@@ -1,0 +1,377 @@
+# Translation of Themes - Portfolio Press in Ukrainian
+# This file is distributed under the same license as the Themes - Portfolio Press package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-27 22:26:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - Portfolio Press\n"
+
+#. Description of the theme
+msgid "Portfolio Press is a responsive theme for showcasing your photography, art, web sites, or other projects.  It also works nicely as a regular blog site. Configuration options are available in the customizer. Visit the <a href=\"https://themes.wptheming.com/portfolio/\">demo site</a> or watch the <a href=\"https://wptheming.com/portfolio-press\">video screencast</a> for set up instructions (https://wptheming.com/portfolio-press)."
+msgstr "Portfolio Press це тема для демонстрації ваших фотографій, картин, веб сторінок, або інших проектів. Вона також підійде для ведення звичайного блогу. Опції конфігурації доступні для редагування. Відвідайте <a href=\"http://themes.wptheming.com/portfolio/\">демо сайт</a> або перегляньте <a href=\"http://wptheming.com/portfolio-press\">відео з оглядом теми</a> з інструкцією по встановленню (http://wptheming.com/portfolio-press)."
+
+#. Theme Name of the theme
+msgid "Portfolio Press"
+msgstr "Portfolio Press"
+
+#. Template Name of the theme
+msgid "Image and Gallery Posts"
+msgstr "Image and Gallery Posts"
+
+#. Template Name of the theme
+msgid "Full-width Portfolio"
+msgstr "Full-width Portfolio"
+
+#. Template Name of the theme
+msgid "Full-width Page"
+msgstr "Full-width Page"
+
+#. Template Name of the theme
+msgid "Full Width Image and Gallery Posts"
+msgstr "Full Width Image and Gallery Posts"
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "Архіви"
+
+#: search.php:36
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Вибачте, але за вашим пошуковим запитом нічого не знайдено. Будь ласка, спробуйте інші ключові слова."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Пошукові результати для: %s"
+
+#: image.php:46
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Опубліковано </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> повний розмір <a href=\"%3$s\" title=\"Посилання на повнорозмірне зображення\">%4$s &times; %5$s</a> у <a href=\"%6$s\" title=\"Повернутися до %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:43
+msgid "Skip to content"
+msgstr "Перейти до вмісту"
+
+#: header.php:42
+msgid "Menu"
+msgstr "Меню"
+
+#: functions.php:202
+msgid "Footer 4"
+msgstr "Підвал 4"
+
+#: functions.php:192
+msgid "Footer 3"
+msgstr "Підвал 3"
+
+#: functions.php:182
+msgid "Footer 2"
+msgstr "Підвал 2"
+
+#: functions.php:174 functions.php:184 functions.php:194 functions.php:204
+msgid "Widgetized footer"
+msgstr "Віджетизований підвал"
+
+#: functions.php:172
+msgid "Footer 1"
+msgstr "Підвал 1"
+
+#: functions.php:163
+msgid "Sidebar"
+msgstr "Бічна колонка"
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr "Основне меню"
+
+#. Template Name of the theme
+#: footer.php:41
+msgid "Portfolio"
+msgstr "Портфоліо"
+
+#: footer.php:41
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:41
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Семантична платформа публікації"
+
+#: footer.php:41
+msgid "Powered by"
+msgstr "Працює на"
+
+#: extensions/template-helpers.php:162
+msgid "Next &rarr;"
+msgstr "Наступна &rarr;"
+
+#: extensions/template-helpers.php:161
+msgid "&larr; Previous"
+msgstr "&larr; Попередня"
+
+#: extensions/template-helpers.php:159 extensions/template-helpers.php:164
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: extensions/template-helpers.php:158 extensions/template-helpers.php:165
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: extensions/template-helpers.php:153
+msgid "Post navigation"
+msgstr "Навігація публікаціями"
+
+#: extensions/template-helpers.php:119
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Наступні записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: extensions/template-helpers.php:115
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Попередні записи"
+
+#: extensions/template-helpers.php:111
+msgid "Posts navigation"
+msgstr "Навігація по записах"
+
+#: image.php:57 templates/full-width-page.php:24
+#: extensions/template-helpers.php:81 page.php:23
+msgid "Edit"
+msgstr "Редагувати"
+
+#: extensions/template-helpers.php:78
+msgid "% Comments"
+msgstr "Коментарів: %"
+
+#: extensions/template-helpers.php:78
+msgid "1 Comment"
+msgstr "1 Коментар"
+
+#: extensions/template-helpers.php:78
+msgid "Leave a comment"
+msgstr "Залишити коментар"
+
+#: extensions/template-helpers.php:73
+msgid "Tagged: "
+msgstr "Теґи:"
+
+#: extensions/template-helpers.php:65
+msgid "Posted in: "
+msgstr "Опубліковано у "
+
+#: extensions/template-helpers.php:19
+msgid "View all posts by %s"
+msgstr "Подивитися всі записи автора %s"
+
+#: extensions/template-helpers.php:14
+msgid "<span class=\"meta-prep meta-prep-author\">Posted </span><a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s\" pubdate>%3$s</time></a> <span class=\"meta-sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\">%6$s</a></span>"
+msgstr "<span class=\"meta-prep meta-prep-author\">Опубліковано </span><a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s\" pubdate>%3$s</time></a> <span class=\"meta-sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\">%6$s</a></span>"
+
+#: extensions/customizer-options.php:230
+msgid "Footer Text"
+msgstr "Текст в підвалі"
+
+#: extensions/customizer-options.php:223
+msgid "Footer"
+msgstr "Підвал"
+
+#: extensions/customizer-options.php:212
+msgid "Display archive titles and descriptions."
+msgstr "Відображення архівних заголовків і описів."
+
+#: extensions/customizer-options.php:211
+msgid "Archive Titles"
+msgstr "Архів заголовків"
+
+#: extensions/customizer-options.php:202
+msgid "Display Image and Gallery Formats on Posts Page"
+msgstr "Відображати зображенння та галерею на сторінці публікацій"
+
+#: extensions/customizer-options.php:191
+msgid "Display image/gallery archives full width."
+msgstr "Відображати архівне зображенння/галерею в повну ширину"
+
+#: extensions/customizer-options.php:179
+msgid "Display portfolio archives full width."
+msgstr "Відображати архівне портфоліо в повну ширину."
+
+#: extensions/customizer-options.php:178 extensions/customizer-options.php:190
+msgid "Full Width Archives"
+msgstr "Архіви в повну ширину"
+
+#: extensions/customizer-options.php:168
+msgid "Archive"
+msgstr "Архів"
+
+#: extensions/customizer-options.php:157
+msgid "Previous/next links on posts."
+msgstr "Посилання Назад/Вперед в публікаціях."
+
+#: extensions/customizer-options.php:156
+msgid "Display post navigation"
+msgstr "Відображати навігацію публікаціями"
+
+#: extensions/customizer-options.php:145
+msgid "Display featured images on posts."
+msgstr "Відображати зображення в публікаціях."
+
+#: extensions/customizer-options.php:133
+msgid "Display featured images on portfolio posts."
+msgstr "Відображати зображення в портфоліо."
+
+#: extensions/customizer-options.php:132 extensions/customizer-options.php:144
+msgid "Display Featured Images"
+msgstr "Відображати зображення публікації"
+
+#: extensions/customizer-options.php:122
+msgid "General"
+msgstr "Загальне"
+
+#: extensions/customizer-options.php:108
+msgid "Menu Position"
+msgstr "Розташування Меню"
+
+#: extensions/customizer-options.php:102
+msgid "Underneath Logo"
+msgstr "Під логотипом"
+
+#: extensions/customizer-options.php:101
+msgid "Right of Logo"
+msgstr "Справа від логотипу"
+
+#: extensions/customizer-options.php:91
+msgid "Header Color"
+msgstr "Колір заголовку"
+
+#: extensions/customizer-options.php:84
+msgid "Colors"
+msgstr "Кольори"
+
+#: extensions/customizer-options.php:72
+msgid "Standard Layout"
+msgstr "Стандартна розмітка"
+
+#: extensions/customizer-options.php:66
+msgid "Single Column"
+msgstr "В одну колонку"
+
+#: extensions/customizer-options.php:65
+msgid "Sidebar Left"
+msgstr "Бічна панель зліва"
+
+#: extensions/customizer-options.php:64
+msgid "Sidebar Right"
+msgstr "Бічна панель справа"
+
+#: extensions/customizer-options.php:59
+msgid "Layout"
+msgstr "Шаблон"
+
+#: extensions/customizer-options.php:51
+msgid "File must be <strong>.png</strong> format. Optimal dimensions: <strong>152px x 152px</strong>."
+msgstr "Файл повинен бути в <strong>.png</strong> форматі. Оптимальні розміри: <strong>152px x 152px</strong>."
+
+#: extensions/customizer-options.php:47
+msgid "Apple Touch Icon"
+msgstr "Apple Touch іконка"
+
+#: extensions/customizer-options.php:41
+msgid "File must be <strong>.png</strong> format. Optimal dimensions: <strong>32px x 32px</strong>."
+msgstr "Файл повинен бути в <strong>.png</strong> форматі. Оптимальні розміри: <strong>32px x 32px</strong>."
+
+#: extensions/customizer-options.php:37
+msgid "Favicon"
+msgstr "Значок сайту"
+
+#: extensions/customizer-options.php:28
+msgid "Logo"
+msgstr "Логотип"
+
+#: extensions/customizer-options.php:21
+msgid "Logo Image"
+msgstr "Зображення логотипу"
+
+#: extensions/customizer-library/extensions/preview.php:48
+msgid "Upgrade to Portfolio+"
+msgstr "Придбати Portfolio+"
+
+#: content.php:25 single.php:27 templates/full-width-page.php:23
+#: single-portfolio.php:27 page.php:22
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продовжувати читання <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-none.php:15
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Інформацію на запит знайти не вдалося. Можливо, буде корисний пошук по сайту."
+
+#: content-none.php:11 search.php:32
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: comments.php:37 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Новіші коментарі &rarr;"
+
+#: comments.php:36 comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Старіші коментарі"
+
+#: comments.php:35 comments.php:54
+msgid "Comment navigation"
+msgstr "Навігація по коментарях"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "1 Response"
+msgid_plural "%1$s Responses"
+msgstr[0] "%1 відгук"
+msgstr[1] "%1$s відгуки"
+msgstr[2] "%1$s відгуків"
+
+#: author.php:27
+msgid "About %s"
+msgstr "Про автора %s"
+
+#: author.php:15
+msgid "Author Archives: <span class=\"vcard\">%s</span>"
+msgstr "Архів автора: <span class=\"vcard\">%s</span>"
+
+#: 404.php:26
+msgid "Most Used Categories"
+msgstr "Популярні категорії"
+
+#: 404.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr "Потрібну інформацію не знайдено. Можливо, буде корисний пошук по сайту або наведені нижче посилання."
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Неприємна новина"
+
+#. Author URI of the theme
+msgid "https://wptheming.com/"
+msgstr "http://wptheming.com/"
+
+#. Author of the theme
+msgid "Devin Price"
+msgstr "Devin Price"
+
+#. Theme URI of the theme
+msgid "https://wptheming.com/portfolio-press/"
+msgstr "http://wptheming.com/portfolio-press/"
