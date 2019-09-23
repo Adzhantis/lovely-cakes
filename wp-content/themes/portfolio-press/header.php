@@ -46,5 +46,8 @@
 		</div>
 	</header><!-- #branding -->
 
-	<div id="main">
-    	<div class="col-width">
+                    <!--remove padding before content-->
+	<div id="main" <?php if (is_front_page()): ?> style="padding: 0;" <?php endif; ?>>
+        <?php if (!is_front_page()): ?>
+    	    <div class="col-width">
+        <?php endif; ?>

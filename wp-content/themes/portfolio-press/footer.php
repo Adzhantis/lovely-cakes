@@ -5,8 +5,10 @@
  * @package Portfolio Press
  */
 ?>
-	</div>
-	</div><!-- #main -->
+    <?php if (!is_front_page()): ?>
+        </div>
+        </div><!-- #main -->
+    <?php endif; ?>
 
 </div><!-- #page -->
 
